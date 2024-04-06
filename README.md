@@ -13,9 +13,9 @@
 
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently brushing up my **coding skills**
 
-- 🔭 I’m currently working on **CODSOFT INTERNSHIP**
+- 🔭 I’m currently working on **MULTICLOUD Project**
 
 - 📫 How to reach me **khannashambhavi370@gmail.com**
 
